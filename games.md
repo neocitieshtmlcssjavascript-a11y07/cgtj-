@@ -1,4 +1,5 @@
-(games.html)[image92.png]
+![game](image92.png)
+#
 [add](https://github.com/neocitieshtmlcssjavascript-a11y07/cgtj-/issues)
 #
 #
