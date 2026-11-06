@@ -5,3 +5,5 @@ It is a powerful programming language that works with Godot and Three.js
 Download Godot open Three.js
 - [ ] - you will do it
 - [ ] - Let me give you the browser version
+# on what systems
+You can run it on Android, a laptop, Windows, Mac OS, Linux, and a browser.
