@@ -7,3 +7,7 @@ Download Godot open Three.js
 - [ ] - Let me give you the browser version
 # on what systems
 You can run it on Android, a laptop, Windows, Mac OS, Linux, and a browser.
+# control Panel
+[create a game](info.md)
+[view old pro](games.md)
+[godot](google.com)
